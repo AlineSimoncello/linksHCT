@@ -27,6 +27,12 @@ h1 {
   font-size: 48px;
 }
 
+h2 {
+  text-align: center;
+  padding: 2rem;
+  margin-bottom: 25px;
+}
+
 .links {
   margin-top: 5rem;
 }
